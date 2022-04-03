@@ -1,0 +1,35 @@
+grep - global regular expression print
+
+awk - is abbreviated from the names of the developers – Aho, Weinberger, and Kernighan
+
+ssh - Secure Shell (SSH) is a cryptographic network protocol used for an encrypted connection 		between a client and a server. The ssh client creates a secure connection to the SSH 	server on a remote machine.
+
+sudo - substitute user do
+
+cat - Cat(concatenate) command is very frequently used in Linux. It reads data from the file 	and gives their content as output. It helps us to create, view, concatenate files
+
+sed - sed command in UNIX stands for stream editor and it can perform lots of functions on 	file like searching, find and replace, insertion or deletion. 
+
+chown - change ownership
+
+chmod - change mode, It allows us to control exactly who is able to read, edit or run the files 
+
+chgrp - change group ownership
+
+lsblk - list block devices
+
+getent - get the entries 
+
+sudo vi - visual editor
+
+cut -it is used for cutting sections from each line of a file
+
+scp - secure copy protocol
+
+tar - tape archive. It is used to create Archive and extract the Archive files
+
+ps - ps command enables you to check the status of active processes on a system
+
+:wq //save and exit
+:qa! //exit without saving
+
